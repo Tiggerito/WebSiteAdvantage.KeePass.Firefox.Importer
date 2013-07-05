@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteAdvantage.KeePass.Firefox.Importer", "WebSiteAdvantage.KeePass.Firefox.Importer\WebSiteAdvantage.KeePass.Firefox.Importer.csproj", "{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteAdvantage.KeePass.Firefox", "WebSiteAdvantage.KeePass.Firefox\WebSiteAdvantage.KeePass.Firefox.csproj", "{C2CE32F2-A994-4645-92AB-EF89A13BD422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteAdvantage.KeePass.Firefox.Converter", "WebSiteAdvantage.KeePass.Firefox.Converter\WebSiteAdvantage.KeePass.Firefox.Converter.csproj", "{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release64|Any CPU = Release64|Any CPU
+		Release64|x64 = Release64|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Debug|x64.ActiveCfg = Debug|x64
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Debug|x64.Build.0 = Debug|x64
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release|x64.ActiveCfg = Release|x64
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release|x64.Build.0 = Release|x64
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release64|Any CPU.ActiveCfg = Release64|Any CPU
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release64|Any CPU.Build.0 = Release64|Any CPU
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release64|x64.ActiveCfg = Release64|x64
+		{8DDDA3E3-4678-4644-9BA8-5FC7BB92C860}.Release64|x64.Build.0 = Release64|x64
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Release|x64.ActiveCfg = Release|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Release64|Any CPU.ActiveCfg = Release64|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Release64|Any CPU.Build.0 = Release64|Any CPU
+		{C2CE32F2-A994-4645-92AB-EF89A13BD422}.Release64|x64.ActiveCfg = Release64|Any CPU
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Debug|x64.ActiveCfg = Debug|x64
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Debug|x64.Build.0 = Debug|x64
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release|x64.ActiveCfg = Release|x64
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release|x64.Build.0 = Release|x64
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release64|Any CPU.ActiveCfg = Release64|Any CPU
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release64|Any CPU.Build.0 = Release64|Any CPU
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release64|x64.ActiveCfg = Release64|x64
+		{1A4E94F3-EA34-4E30-BD31-9779B5A7D549}.Release64|x64.Build.0 = Release64|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
