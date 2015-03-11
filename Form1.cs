@@ -121,7 +121,7 @@ namespace WebSiteAdvantageKeePassFirefoxImporter
 
 		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
-            Process.Start("http://seo-website-designer.com/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=link&utm_campaign=importer-" + KeePassUtilities.Version);
+            Process.Start("https://websiteadvantage.com.au/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=link&utm_campaign=importer-" + KeePassUtilities.Version);
 		}
 
 		private void checkBoxTitle_CheckedChanged(object sender, EventArgs e)
@@ -136,7 +136,7 @@ namespace WebSiteAdvantageKeePassFirefoxImporter
 
 		private void buttonHelp_Click(object sender, EventArgs e)
 		{
-            Process.Start("http://seo-website-designer.com/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=importer-" + KeePassUtilities.Version);
+            Process.Start("https://websiteadvantage.com.au/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=importer-" + KeePassUtilities.Version);
 
 		}
 
@@ -226,7 +226,7 @@ namespace WebSiteAdvantageKeePassFirefoxImporter
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Process.Start("http://seo-website-designer.com/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=importerdonate-" + KeePassUtilities.Version);
+            Process.Start("https://websiteadvantage.com.au/Firefox-KeePass-Password-Import#utm_source=keepassfirefox&utm_medium=application&utm_content=help&utm_campaign=importerdonate-" + KeePassUtilities.Version);
 
         }
 

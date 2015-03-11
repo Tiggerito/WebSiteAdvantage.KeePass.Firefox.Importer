@@ -5,4 +5,4 @@ References
    System.Data.SQLite - used to access Firefox's database (http://sqlite.phxsoftware.com/)
  
 Support, Instructions & Help
-	http://seo-website-designer.com/Firefox-KeePass-Password-Import
+	https://websiteadvantage.com.au/Firefox-KeePass-Password-Import
