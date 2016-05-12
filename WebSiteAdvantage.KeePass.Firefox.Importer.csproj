@@ -137,23 +137,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="KeePassLibs\2.28\KeePass.chm" />
-    <None Include="KeePassLibs\2.28\KeePass.exe.config" />
     <None Include="WebSiteAdvantage.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="KeePassLibs\2.28\KeePass.exe" />
-    <Content Include="KeePassLibs\2.28\KeePass.XmlSerializers.dll" />
-    <Content Include="KeePassLibs\2.28\KeePassLibC32.dll" />
-    <Content Include="KeePassLibs\2.28\KeePassLibC64.dll" />
-    <Content Include="KeePassLibs\2.28\License.txt" />
-    <Content Include="KeePassLibs\2.28\ShInstUtil.exe" />
-    <Content Include="KeePassLibs\2.28\XSL\KDBX_DetailsFull.xsl" />
-    <Content Include="KeePassLibs\2.28\XSL\KDBX_DetailsLite.xsl" />
-    <Content Include="KeePassLibs\2.28\XSL\KDBX_PasswordsOnly.xsl" />
-    <Content Include="KeePassLibs\2.28\XSL\KDBX_Styles.css" />
-    <Content Include="KeePassLibs\2.28\XSL\KDBX_Tabular.xsl" />
-    <Content Include="KeePassLibs\2.28\XSL\TableHeader.gif" />
     <Content Include="WebSiteAdvantageKeePassFirefox-lgpl.txt" />
     <Content Include="WebSiteAdvantageKeePassFirefox-README.txt" />
     <None Include="Resources\beer3.ico" />
@@ -182,6 +168,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="KeePassLibs\2.29\" />
     <Folder Include="Releases\" />
   </ItemGroup>
   <ItemGroup>
